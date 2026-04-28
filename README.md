@@ -36,7 +36,7 @@ I enjoy turning ideas into real-world web solutions and continuously learning ne
 
 ## 🌐 Connect With Me
 <p>
-  <a href="linkedin.com/in/abdurrahim04">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/abdurrahim04" target="_blank">LinkedIn</a> |
   <a href="#">TikTok</a> |
   <a href="#">Snapchat</a>
 </p>
