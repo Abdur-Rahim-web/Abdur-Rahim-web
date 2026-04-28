@@ -41,13 +41,13 @@ Currently, I am focusing on improving my skills in React.js and building real-wo
 
 ### 💼 DigiTools Platform
 A modern web application for digital tools with responsive UI and smooth UX.  
-🔗 Live: https://my-portfolio-6547c7.netlify.app/
+🔗 Live: https://digitools-platform-5877a8.netlify.app/ 
 
 ---
 
 ### 👥 Friends Dashboard App
 A responsive dashboard app with charts and dynamic UI.  
-🔗 Live: https://startling-narwhal-3d0ffd.netlify.app/
+🔗 Live: https://friend-dashboard.netlify.app/
 
 ---
 
@@ -74,8 +74,8 @@ Personal portfolio showcasing my skills and projects.
 ## 🌐 Connect With Me
 
 - 🔗 GitHub: https://github.com/Abdur-Rahim-web  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 📧 Email: abdurrahim04@gmail.com  
+- 💼 LinkedIn: https:// linkedin.com/in/abdurrahim04 
+- 📧 Email: abdurrahimar04@gmail.com  
 
 ---
 
