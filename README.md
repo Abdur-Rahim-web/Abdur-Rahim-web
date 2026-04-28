@@ -8,7 +8,7 @@
 
 ## 📍 Location & Contact
 📍 Bangladesh  
-📧 abdur.rahim2992001@gmail.com  
+📧 abdurrahimar04@gmail.com  
 
 ---
 
@@ -29,14 +29,14 @@ I enjoy turning ideas into real-world web solutions and continuously learning ne
 
 ## 🛠️ Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,tailwind,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,mongodb,tailwind,git,github" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p>
-  <a href="#">LinkedIn</a> |
+  <a href="linkedin.com/in/abdurrahim04">LinkedIn</a> |
   <a href="#">TikTok</a> |
   <a href="#">Snapchat</a>
 </p>
