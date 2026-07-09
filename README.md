@@ -81,29 +81,47 @@ Currently, I'm learning **TypeScript** and building **Nestora**, a modern House 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-web&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-web&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahim-web&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahim-web&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Abdur-Rahim-web&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdur-Rahim-web&theme=github-compact&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Abdur-Rahim-web&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 👀 Profile Views
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdur-Rahim-web&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdur-Rahim-web&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdur-Rahim-web/Abdur-Rahim-web/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+> **Note:** This animation requires a GitHub Action workflow. It will start working after the workflow is configured.
+
+---
+
+## 💡 Quick Overview
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-2563eb?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Currently%20Building-Nestora-16a34a?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Full%20Stack%20Opportunities-orange?style=for-the-badge"/>
+
 </p>
 ---
 
@@ -113,13 +131,13 @@ Currently, I'm learning **TypeScript** and building **Nestora**, a modern House 
 
 A modern full-stack house rental platform that enables users to discover rental properties, publish listings, book homes, and share reviews through a responsive and intuitive interface. The platform features secure authentication, role-based access control, property management, and a seamless booking experience.
 
-**🛠️ Tech Stack:** Next.js • React • Node.js • Express.js • MongoDB • Firebase • Tailwind CSS
+**🛠️ Tech Stack:** Next.js • React • Node.js • Express.js • MongoDB  • Tailwind CSS
 
-🌐 **Live Demo:** [Live Link](YOUR_LIVE_LINK)
+🌐 **Live Demo:** [Live Link](my-rental-client.vercel.app)
 
-💻 **Client Repository:** [Client Repo](YOUR_CLIENT_REPO_LINK)
+💻 **Client Repository:** [Client Repo]([YOUR_CLIENT_REPO_LINK](https://github.com/Abdur-Rahim-web/my-rental-client))
 
-⚙️ **Server Repository:** [Server Repo](YOUR_SERVER_REPO_LINK)
+⚙️ **Server Repository:** [Server Repo]([YOUR_SERVER_REPO_LINK](https://github.com/Abdur-Rahim-web/my-rental-server))
 
 ---
 
@@ -127,13 +145,13 @@ A modern full-stack house rental platform that enables users to discover rental 
 
 StudySpot is a full-stack study room booking platform where users can create study rooms, explore available spaces, and book them with real-time time-slot validation. It ensures secure authentication, role-based access control, and a conflict-free booking experience with a clean and responsive user interface.
 
-**🛠️ Tech Stack:** React • Node.js • Express.js • MongoDB • Firebase • Tailwind CSS
+**🛠️ Tech Stack:** React • Node.js • Express.js • MongoDB • Next.js • Tailwind CSS
 
-🌐 **Live Demo:** [Live Link](YOUR_LIVE_LINK)
+🌐 **Live Demo:** [Live Link](studyspot-client.vercel.app)
 
-💻 **Client Repository:** [Client Repo](YOUR_CLIENT_REPO_LINK)
+💻 **Client Repository:** [Client Repo]([YOUR_CLIENT_REPO_LINK](https://github.com/Abdur-Rahim-web/studyspot-client))
 
-⚙️ **Server Repository:** [Server Repo](YOUR_SERVER_REPO_LINK)
+⚙️ **Server Repository:** [Server Repo]([YOUR_SERVER_REPO_LINK](https://github.com/Abdur-Rahim-web/studyspot-server))
 
 ---
 
@@ -141,13 +159,12 @@ StudySpot is a full-stack study room booking platform where users can create stu
 
 SunCart is a modern full-stack eCommerce application that allows users to explore and purchase summer essentials, including sunglasses, outfits, skincare products, and beach accessories. The platform delivers a smooth shopping experience with secure authentication, responsive design, and efficient product management.
 
-**🛠️ Tech Stack:** React • Node.js • Express.js • MongoDB • Firebase • Tailwind CSS
+**🛠️ Tech Stack:** React • Node.js • Express.js • MongoDB  • Tailwind CSS
 
-🌐 **Live Demo:** [Live Link](YOUR_LIVE_LINK)
+🌐 **Live Demo:** [[Live Link](YOUR_LIVE_LINK)](https://sun-cart-iota.vercel.app/)
 
-💻 **Client Repository:** [Client Repo](YOUR_CLIENT_REPO_LINK)
+💻 **Client Repository:** [Client Repo]([YOUR_CLIENT_REPO_LINK](https://github.com/Abdur-Rahim-web/Sun-Cart))
 
-⚙️ **Server Repository:** [Server Repo](YOUR_SERVER_REPO_LINK)
 
 ---
 # 🌐 Connect With Me
