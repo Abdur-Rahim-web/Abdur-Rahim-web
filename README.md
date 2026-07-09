@@ -1,97 +1,183 @@
-# 👋 Hi, I'm Abdur Rahim
+<!-- ========================================= -->
+<!--                HEADER                     -->
+<!-- ========================================= -->
 
-### 💻 Frontend Web Developer | React Learner | UI Enthusiast
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Abdur%20Rahim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Next.js%20|%20TypeScript&descAlignY=58" />
+</p>
 
----
+<h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
 
-## 🧠 About Me
+<h3 align="center">
+A Passionate Full Stack Developer from Bangladesh 🇧🇩
+</h3>
 
-I am a passionate Frontend Web Developer from Bangladesh.  
-I enjoy building clean, responsive, and user-friendly web applications using modern technologies.
-
-Currently, I am focusing on improving my skills in React.js and building real-world projects.
-
----
-
-## 🚀 Current Activities
-
-- 🔭 Working on React.js projects  
-- 🌱 Learning advanced frontend development (React, API integration)  
-- 🛠 Building responsive and interactive web applications  
-- 📚 Improving JavaScript and problem-solving skills  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Enthusiast;Currently+Learning+TypeScript;Always+Learning+New+Technologies" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 💡 Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+I'm **Abdur Rahim**, a passionate **Full Stack Developer** from **Rajshahi, Bangladesh**.
 
-### ⚙️ Tools & Others
-![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+I enjoy building scalable, responsive, and user-friendly web applications using modern JavaScript technologies. I'm passionate about writing clean code, solving real-world problems, and continuously improving my development skills.
+
+Currently, I'm learning **TypeScript** and building **Nestora**, a modern House Rental Platform using the **MERN Stack** and **Next.js**.
 
 ---
 
-## 📌 Featured Projects
+## 🌱 Current Activities
 
-### 💼 DigiTools Platform
-A modern web application for digital tools with responsive UI and smooth UX.  
-🔗 Live: https://digitools-platform-5877a8.netlify.app/ 
-
----
-
-### 👥 Friends Dashboard App
-A responsive dashboard app with charts and dynamic UI.  
-🔗 Live: https://friend-dashboard.netlify.app/
+- 🔭 Currently building **Nestora – House Rental Platform**
+- 🌱 Learning **TypeScript** to write scalable and maintainable applications
+- ⚡ Exploring advanced features of **Next.js**
+- 💻 Solving programming problems and improving JavaScript fundamentals
+- 📚 Continuously learning modern web technologies and best practices
 
 ---
 
-### 🧑‍💻 Portfolio Website
-Personal portfolio showcasing my skills and projects.  
-🔗 Live: https://my-portfolio-6547c7.netlify.app/
+# 💻 Tech Stack
+
+### 🚀 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database & Authentication
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" />
+</p>
+
+### ☁️ Deployment & Hosting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
+
+---
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahim-web&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdur-Rahim-web&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 GitHub Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-web&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahim-web&layout=compact&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdur-Rahim-web&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdur-Rahim-web&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 👀 Profile Views
 
-- 🔗 GitHub: https://github.com/Abdur-Rahim-web  
-- 💼 LinkedIn: https:// linkedin.com/in/abdurrahim04 
-- 📧 Email: abdurrahimar04@gmail.com  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdur-Rahim-web&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+---
 
 ---
 
-## 🎯 Goals for 2026
+# 🌟 Featured Projects
 
-- Become a job-ready Frontend Developer  
-- Master React.js & modern UI frameworks  
-- Build 10+ real-world projects  
-- Start contributing to open-source projects  
+## 🏠 Nestora — House Rental Platform
+
+A modern full-stack house rental platform that enables users to discover rental properties, publish listings, book homes, and share reviews through a responsive and intuitive interface. The platform features secure authentication, role-based access control, property management, and a seamless booking experience.
+
+**🛠️ Tech Stack:** Next.js • React • Node.js • Express.js • MongoDB • Firebase • Tailwind CSS
+
+🌐 **Live Demo:** [Live Link](YOUR_LIVE_LINK)
+
+💻 **Client Repository:** [Client Repo](YOUR_CLIENT_REPO_LINK)
+
+⚙️ **Server Repository:** [Server Repo](YOUR_SERVER_REPO_LINK)
 
 ---
 
-## 💬 Fun Fact
+## 📚 StudySpot — Study Room Booking Platform
 
-I love turning ideas into real web applications and constantly improving my skills through hands-on projects.
+StudySpot is a full-stack study room booking platform where users can create study rooms, explore available spaces, and book them with real-time time-slot validation. It ensures secure authentication, role-based access control, and a conflict-free booking experience with a clean and responsive user interface.
+
+**🛠️ Tech Stack:** React • Node.js • Express.js • MongoDB • Firebase • Tailwind CSS
+
+🌐 **Live Demo:** [Live Link](YOUR_LIVE_LINK)
+
+💻 **Client Repository:** [Client Repo](YOUR_CLIENT_REPO_LINK)
+
+⚙️ **Server Repository:** [Server Repo](YOUR_SERVER_REPO_LINK)
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🛍️ SunCart — Summer eCommerce Platform
+
+SunCart is a modern full-stack eCommerce application that allows users to explore and purchase summer essentials, including sunglasses, outfits, skincare products, and beach accessories. The platform delivers a smooth shopping experience with secure authentication, responsive design, and efficient product management.
+
+**🛠️ Tech Stack:** React • Node.js • Express.js • MongoDB • Firebase • Tailwind CSS
+
+🌐 **Live Demo:** [Live Link](YOUR_LIVE_LINK)
+
+💻 **Client Repository:** [Client Repo](YOUR_CLIENT_REPO_LINK)
+
+⚙️ **Server Repository:** [Server Repo](YOUR_SERVER_REPO_LINK)
+
+---
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Abdur-Rahim-web" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdurrahim04" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abdurrahimar04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+📍 **Location:** Rajshahi, Bangladesh
+
+📧 **Email:** abdurrahimar04@gmail.com
+
+💼 **Open to Full-Stack Developer Opportunities**
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories.
+</p>
