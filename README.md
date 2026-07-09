@@ -45,7 +45,7 @@ Currently, I'm learning **TypeScript** and building **Nestora**, a modern House 
 ### 🚀 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
 
 ### ⚙️ Backend Development
@@ -73,38 +73,38 @@ Currently, I'm learning **TypeScript** and building **Nestora**, a modern House 
 </p>
 
 ---
----
 
-# 📊 GitHub Analytics
+<!-- ========================================= -->
+<!--            GitHub Analytics               -->
+<!-- ========================================= -->
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahim-web&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-web&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahim-web&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdur-Rahim-web&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdur-Rahim-web&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=Abdur-Rahim-web&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-# 👀 Profile Views
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdur-Rahim-web&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdur-Rahim-web&theme=github-compact&hide_border=true" />
 </p>
 
 ---
----
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdur-Rahim-web&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 ---
 
 # 🌟 Featured Projects
