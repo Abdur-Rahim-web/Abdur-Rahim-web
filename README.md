@@ -92,81 +92,43 @@ Currently, I'm learning **TypeScript** and building **Nestora**, a modern House 
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdur-Rahim-web&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abdur-Rahim-web/Abdur-Rahim-web/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-> **Note:** This animation requires a GitHub Action workflow. It will start working after the workflow is configured.
-
----
-
-## 💡 Quick Overview
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-2563eb?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Learning-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Currently%20Building-Nestora-16a34a?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20To-Full%20Stack%20Opportunities-orange?style=for-the-badge"/>
-
-</p>
 ---
 
 # 🌟 Featured Projects
 
 ## 🏠 Nestora — House Rental Platform
+A modern full-stack house rental platform.
 
-A modern full-stack house rental platform that enables users to discover rental properties, publish listings, book homes, and share reviews through a responsive and intuitive interface. The platform features secure authentication, role-based access control, property management, and a seamless booking experience.
+**🛠️ Tech Stack:** Next.js • React • Node.js • Express.js • MongoDB • Tailwind CSS
 
-**🛠️ Tech Stack:** Next.js • React • Node.js • Express.js • MongoDB  • Tailwind CSS
-
-🌐 **Live Demo:** [Live Link](my-rental-client.vercel.app)
-
-💻 **Client Repository:** [Client Repo]([YOUR_CLIENT_REPO_LINK](https://github.com/Abdur-Rahim-web/my-rental-client))
-
-⚙️ **Server Repository:** [Server Repo]([YOUR_SERVER_REPO_LINK](https://github.com/Abdur-Rahim-web/my-rental-server))
+🔗 [Live Demo](https://my-rental-client.vercel.app) | 💻 [Client Repo](https://github.com/Abdur-Rahim-web/my-rental-client) | ⚙️ [Server Repo](https://github.com/Abdur-Rahim-web/my-rental-server)
 
 ---
 
 ## 📚 StudySpot — Study Room Booking Platform
-
-StudySpot is a full-stack study room booking platform where users can create study rooms, explore available spaces, and book them with real-time time-slot validation. It ensures secure authentication, role-based access control, and a conflict-free booking experience with a clean and responsive user interface.
+A full-stack study room booking platform.
 
 **🛠️ Tech Stack:** React • Node.js • Express.js • MongoDB • Next.js • Tailwind CSS
 
-🌐 **Live Demo:** [Live Link](studyspot-client.vercel.app)
-
-💻 **Client Repository:** [Client Repo]([YOUR_CLIENT_REPO_LINK](https://github.com/Abdur-Rahim-web/studyspot-client))
-
-⚙️ **Server Repository:** [Server Repo]([YOUR_SERVER_REPO_LINK](https://github.com/Abdur-Rahim-web/studyspot-server))
+🔗 [Live Demo](https://studyspot-client.vercel.app) | 💻 [Client Repo](https://github.com/Abdur-Rahim-web/studyspot-client) | ⚙️ [Server Repo](https://github.com/Abdur-Rahim-web/studyspot-server)
 
 ---
 
 ## 🛍️ SunCart — Summer eCommerce Platform
+A modern full-stack eCommerce application.
 
-SunCart is a modern full-stack eCommerce application that allows users to explore and purchase summer essentials, including sunglasses, outfits, skincare products, and beach accessories. The platform delivers a smooth shopping experience with secure authentication, responsive design, and efficient product management.
+**🛠️ Tech Stack:** React • Node.js • Express.js • MongoDB • Tailwind CSS
 
-**🛠️ Tech Stack:** React • Node.js • Express.js • MongoDB  • Tailwind CSS
-
-🌐 **Live Demo:** [[Live Link](YOUR_LIVE_LINK)](https://sun-cart-iota.vercel.app/)
-
-💻 **Client Repository:** [Client Repo]([YOUR_CLIENT_REPO_LINK](https://github.com/Abdur-Rahim-web/Sun-Cart))
-
+🔗 [Live Demo](https://sun-cart-iota.vercel.app/) | 💻 [Client Repo](https://github.com/Abdur-Rahim-web/Sun-Cart)
 
 ---
+
 # 🌐 Connect With Me
 
 <p align="left">
