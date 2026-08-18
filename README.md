@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
 
 <h3 align="center">
-A Passionate Full Stack Developer from Bangladesh 🇧🇩
+A Passionate MERN Stack Developer from Bangladesh 🇧🇩
 </h3>
 
 <p align="center">
@@ -22,7 +22,7 @@ A Passionate Full Stack Developer from Bangladesh 🇧🇩
 
 ## 🚀 About Me
 
-I'm **Abdur Rahim**, a passionate **Full Stack Developer** from **Rajshahi, Bangladesh**.
+I'm **Abdur Rahim**, a passionate **MERN Stack Developer** from **Rajshahi, Bangladesh**.
 
 I enjoy building scalable, responsive, and user-friendly web applications using modern JavaScript technologies. I'm passionate about writing clean code, solving real-world problems, and continuously improving my development skills.
 
