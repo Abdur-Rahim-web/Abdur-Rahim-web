@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Abdur%20Rahim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20MERN%20Stack%20%20Developer%20%7C%20JavaScript%20(ES6%2B)%20%7C%20TypeScript%20%7C%20React.js%20%7C%20Next.js%20%7C%20Node.js%20%7C%20Express.js%20%7C%20MongoDB&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Abdur%20Rahim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20JavaScript%20%7C%20TypeScript%20%7C%20React.js%20%7C%20Next.js%20%7C%20Node.js%20%7C%20Express.js%20%7C%20MongoDB&descSize=16&descAlignY=58" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
